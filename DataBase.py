@@ -5,7 +5,7 @@ from flet import CrossAxisAlignment, MainAxisAlignment
 
 
 def main(page: ft.Page):
-    page.title = "Health App"
+    page.title = "Managment App"
     page.window_height = 780
     page.window_width = 355
     page.theme_mode = 'LIGHT'
